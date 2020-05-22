@@ -12,7 +12,7 @@ android_app_import {
 }
 
 android_app_import {
-    name: "SemcMusic",
+    name: "SemcAlbum-albumLive-release",
     apk: "prebuilt/priv-app/SemcAlbum-albumLive-release/SemcAlbum-albumLive-release.apk",
     certificate: "releasekey",
     dex_preopt: {
